@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.googlecode.fannj:fannj:0.6" type="repository">
+    <properties maven-id="com.googlecode.fannj:fannj:0.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/fannj/fannj/0.6/fannj-0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/3.2.7/jna-3.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
